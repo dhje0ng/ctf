@@ -2,17 +2,17 @@
 
 ## Challenges
 
-> [WEB]
+**[WEB]**
 
->> kantan_calc
+- kantan_calc
 
->> simple_blog
+- simple_blog
 
->> pdfGen
+- pdfGen
 
->> baby_sqli
+- baby_sqli
 
->> guestfs_afr
+- guestfs_afr
 
 ## Contact us
 

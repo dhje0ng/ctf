@@ -2,23 +2,23 @@
 
 ## Challenges
 
-> [WEB]
+**[WEB]**
 
->> CAFE
+- CAFE
 
->> superbee
+- superbee
 
->> babyfirst
+- babyfirst
 
->> myblog
+- myblog
 
 ---
 
-> [BlockChain]
+**[BlockChain]**
 
->> NFT
+- NFT
 
-> [Coming soon]
+---
 
 ## Write up
 
