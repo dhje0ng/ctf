@@ -2,6 +2,8 @@
 
 ## Challenges
 
+[Download for Google Drive](https://drive.google.com/drive/folders/1P7CalcrSXcSmJ-7Hur_Fxh872fBumFi1?usp=sharing)
+
 **[WEB]**
 
 - kantan_calc
