@@ -1,0 +1,25 @@
+version: "3.7"
+
+services:
+  app:
+    image: yet_another_funny_web-chal:latest
+    build:
+      context: ./chal
+      dockerfile: ./Dockerfile
+    container_name: chal
+    ports:
+      - "8000:80"
+    networks:
+      - backend
+  flag:
+    image: yet_another_funny_web-flag:latest
+    build:
+      context: ./flag
+      dockerfile: ./Dockerfile
+    container_name: flag
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
