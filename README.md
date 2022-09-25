@@ -24,7 +24,9 @@
 
 - [CODEGATE 2022 Quals (+Write up)](https://github.com/dhje0ng/ctf/tree/main/2022/codegate2022_quals)
 
-- [WACON 2022](#)
+- [WACON 2022](https://github.com/dhje0ng/ctf/tree/main/2022/wacon2022)
+
+- [CCE 2022 + Exploit](Https://github.com/dhje0ng/ctf/tree/main/2022/cce2022)
 
 ---
 
