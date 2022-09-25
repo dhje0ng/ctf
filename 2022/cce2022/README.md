@@ -1,4 +1,4 @@
-# CODEGATE 2022 Quals
+# CCE 2022 Qualifer (General)
 
 ## Challenges
 
