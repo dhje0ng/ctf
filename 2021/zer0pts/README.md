@@ -2,7 +2,7 @@
 
 ## Challenges
 
-[Download for Google Drive](https://drive.google.com/drive/folders/1P7CalcrSXcSmJ-7Hur_Fxh872fBumFi1?usp=sharing)
+[Challenge Download](https://cloud.jhyeon.dev/s/kaM2757kDf86SyB)
 
 **[WEB]**
 
